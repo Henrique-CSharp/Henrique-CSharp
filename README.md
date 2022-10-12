@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Pedro Henrique Diniz 😁
+## Bem-vindo(a) ao perfil do Pedro Henrique Diniz 
 
  <div>
    <a href="https://github.com/PHenriqueDiniz">
