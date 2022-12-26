@@ -1,7 +1,7 @@
 ## Bem-vindo(a) ao perfil do Pedro Henrique Diniz 
 
  <div>
-      <a href="https://github.com/PdroDiniz">
+      <a href="https://github.com/Liscanno">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PdroDiniz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PdroDiniz&layout=compact&langs_count=6&theme=tokyonight"/>
 
@@ -18,7 +18,7 @@
  
 <div> 
   <a href="mailto:pedrodinizluiz@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/pedro-diniz-43b109246" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/pedro-henrique-diniz/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
 
 </div>
