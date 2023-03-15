@@ -1,24 +1,21 @@
-## Bem-vindo(a) ao perfil de Pedro Henrique Diniz 
+# 💫 Sobre mim:
+ Enquanto curso Análise e Desenvolvimento de Sistemas, pretendo adquirir mais experiências para continuar aprimorando meus conhecimentos em front-end com HTML, CSS e JavaScript. Além da linguagem Python que estudo atualmente, também estou aperfeiçoando minhas habilidades em back-end para me adequar ao mercado de trabalho.
 
- <div>
-      <a href="https://github.com/Liscanno">
-   <img height="280em" src="https://github-readme-stats.vercel.app/api?username=Liscanno&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-   <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Liscanno&layout=compact&langs_count=6&theme=dark"/>
 
-</div>
-<div style="display:inline_block">
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="PYTHON" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Liscanno#9238) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/pedro-henrique-diniz/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Liscanno) 
 
-</div>
- 
- <br>
- 
-  ### Contatos
- 
-<div> 
-  <a href="mailto:pedrodinizluiz@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/pedro-henrique-diniz/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Liscanno&theme=react&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Liscanno&theme=react&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Liscanno&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-</div>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Liscanno&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
