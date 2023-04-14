@@ -4,7 +4,12 @@
 ## 🃏 OLÁ, BEM-VINDO AO MEU PERFIL!
 <br/>
 
-Enquanto curso Análise e Desenvolvimento de Sistemas, estou focado em adquirir mais experiências em back-end para continuar aprimorando meus conhecimentos em .Net, C# e MySql para me adequar ao mercado de trabalho.
+Enquanto curso Análise e Desenvolvimento de Sistemas, estou focado em adquirir mais experiências back-end para continuar aprimorando meus conhecimentos em .Net, C# e Banco de Dados para me adequar ao mercado de trabalho. Eu sempre tive um interesse profundo em tecnologia e escolhi estudar ADS, porque acredito que é uma das áreas mais relevantes e em constante evolução. Tenho aprendido muitas coisas interessantes e desafiadoras, como desenvolvimento de software, programação orientada a objetos e design de bancos de dados. No futuro, espero usar minhas habilidades em TI para ajudar a resolver problemas complexos e contribuir para o sucesso de projetos inovadores. Estou animado para ver onde minha carreira em TI me levará e estou determinado a continuar aprendendo e aprimorando minhas habilidades ao longo do caminho.
+
+
+
+
+
 
 <br/>
 
