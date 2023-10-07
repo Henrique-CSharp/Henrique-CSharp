@@ -4,7 +4,7 @@
 ## OLÁ, BEM-VINDO AO MEU PERFIL!
 <br/>
 
-Enquanto curso um técnico em informática, estou focado em adquirir mais experiências back-end para continuar aprimorando meus conhecimentos em .Net, C# e SQL para me adequar ao mercado de trabalho. Sempre tive um interesse profundo em tecnologia e escolhi estudar ADS, porque acredito que é uma das áreas em constante evolução. Tenho aprendido muitas coisas interessantes e desafiadoras, como desenvolvimento de software, programação orientada a objetos e design de bancos de dados. No futuro, espero usar minhas habilidades em TI para ajudar a resolver problemas complexos e contribuir para o sucesso de projetos inovadores. Estou animado para ver onde minha carreira me levará e estou determinado a continuar aprendendo e aprimorando minhas habilidades ao longo do caminho.
+No momento estou focado em adquirir experiências back-end para continuar aprimorando meus conhecimentos em .Net, C# e SQL para me adequar ao mercado de trabalho. Sempre tive um interesse profundo em tecnologia e das as áreas que tive contato eu acredito que me encaixo melhor em back-end e cibersegurança. Tenho aprendido coisas desafiadoras e empolgantes no desenvolvimento de software no curso técnico de informática que venho fazendo desde agosto de 2023. No futuro, espero usar minhas habilidades para ajudar a resolver problemas complexos e contribuir para o sucesso de projetos inovadores. Estou animado para ver onde minha carreira me levará e estou determinado a continuar aprendendo e aprimorando minhas habilidades ao longo do caminho. 
 
 
 
