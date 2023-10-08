@@ -4,7 +4,8 @@
 ## OLÁ, BEM-VINDO AO MEU PERFIL!
 <br/>
 
-No momento estou focado em adquirir experiências back-end para continuar aprimorando meus conhecimentos em .Net, C# e SQL para me adequar ao mercado de trabalho. Sempre tive um interesse profundo em tecnologia e das as áreas que tive contato eu acredito que me encaixo melhor em back-end e cibersegurança. Tenho aprendido coisas desafiadoras e empolgantes no desenvolvimento de software no curso técnico de informática que venho fazendo desde agosto de 2023. No futuro, espero usar minhas habilidades para ajudar a resolver problemas complexos e contribuir para o sucesso de projetos inovadores. Estou animado para ver onde minha carreira me levará e estou determinado a continuar aprendendo e aprimorando minhas habilidades ao longo do caminho. 
+No momento, estou focado em adquirir experiência back-end para aprimorar meus conhecimentos no ambiente .NET, na linguagem C# e nos bancos de dados, a fim de me adequar ao mercado de trabalho.
+Sempre tive um interesse profundo por tecnologia desde criança, mas só há três anos entendi e aceitei que TI é a minha vocação. Das áreas que tive contato, eu me vi mais fissurado em desenvolvimento back-end e cibersegurança. Tenho aprendido coisas desafiadoras e empolgantes no desenvolvimento de software no curso técnico generalista que venho fazendo. No futuro, espero usar minhas habilidades para ajudar a resolver problemas complexos e contribuir para o sucesso de projetos inovadores. Estou determinado a continuar aprendendo e aprimorando minhas hard e soft skills ao longo da minha carreira.
 
 
 
