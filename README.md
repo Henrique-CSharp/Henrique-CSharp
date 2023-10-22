@@ -35,6 +35,6 @@ Sempre tive um interesse profundo por tecnologia desde criança, mas só há tr�
 
 
 ## 📊 Henrique Diniz GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Liscanno&theme=react&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Liscanno&theme=react&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Liscanno&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=Henrique-CSharp&theme=react&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Henrique-CSharp&theme=react&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Henrique-CSharp&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
