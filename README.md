@@ -1,7 +1,7 @@
 
 
 
-## 👨🏿‍🚀 About me:
+# 👨🏿‍🚀 About me:
 <br/>
 
 Com a finalidade de entrar no mercado de trabalho como estagiário ou desenvolvedor back-end Jr, estou construindo bases sólidas e conhecimento aprofundado nas linguagens C-like, APIs, bancos de dados. <br/>
