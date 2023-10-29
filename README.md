@@ -1,17 +1,11 @@
 
 
 
-## OLÁ, BEM-VINDO AO MEU PERFIL!
+## About me
 <br/>
 
-No momento, estou focado em adquirir experiência back-end para aprimorar meus conhecimentos no ambiente .NET, nas linguagens C like e nos bancos de dados com a finalidade de me adequar ao mercado de trabalho. <br/>
-
-Sempre tive um interesse profundo por tecnologia desde criança, mas só há três anos entendi e aceitei que TI é a minha vocação. Das áreas que tive contato, eu me vi mais fissurado em desenvolvimento back-end e cibersegurança. Tenho aprendido coisas desafiadoras e empolgantes no curso técnico generalista que venho fazendo. No futuro, espero usar minhas habilidades para ajudar a resolver problemas complexos e contribuir para o sucesso de projetos inovadores. Estou determinado a continuar aprendendo e aprimorando minhas hard e soft skills ao longo da minha carreira.
-
-
-
-
-
+Com a finalidade de entrar no mercado de trabalho como estagiário ou desenvolvedor back-end Jr, estou construindo bases sólidas e conhecimento aprofundado nas linguagens C-like, APIs, bancos de dados. <br/>
+Sempre tive um interesse por tecnologia, mas só há três anos entendi e aceitei que TI é a minha vocação. Das áreas que tive contato, eu me vi mais fissurado em desenvolvimento back-end e cibersegurança. Tenho aprendido coisas desafiadoras e empolgantes no curso técnico generalista que venho fazendo. No futuro, espero usar minhas habilidades para ajudar a resolver problemas complexos e contribuir para o sucesso de projetos inovadores. Estou determinado a continuar aprendendo e aprimorando minhas hard e soft skills ao longo da minha carreira.
 
 <br/>
 
