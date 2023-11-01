@@ -9,7 +9,7 @@ ${back-end programmer🪐}
 <br/>
 
 
-Com o propósito de entrar no mercado de trabalho como estagiário e ser um desenvolvedor back-end jr com mais experiência,eu estou adquirindo conhecimentos aprofundados em linguagens C-like, APIs, bancos de dados e conceitos de segurança da informação.
+Com o propósito de entrar no mercado de trabalho como estagiário e ser um desenvolvedor back-end jr com mais experiência, eu estou adquirindo conhecimentos em linguagens C-like, APIs, bancos de dados e conceitos de segurança da informação.
 
 <br/>
 
