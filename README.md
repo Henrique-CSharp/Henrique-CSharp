@@ -6,6 +6,8 @@
 
 ${back-end programmer🪐}
 
+<Br/>
+
 
 Com o propósito de entrar no mercado de trabalho como estagiário ou Desenvolvedor Back-end Jr, estou construindo bases sólidas e conhecimento aprofundado nas linguagens C-like, APIs e bancos de dados. <br/>
 
