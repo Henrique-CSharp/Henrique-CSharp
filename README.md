@@ -9,11 +9,7 @@ ${ back-end programmer 🪐}
 <br/>
 
 
-Com o propósito de entrar no mercado de trabalho como estagiário e ser um desenvolvedor back-end jr com mais experiência, eu estou adquirindo conhecimentos em linguagens C-like, APIs, bancos de dados e conceitos de segurança da informação.
-
-<br/>
-
-Sempre tive um grande interesse por tecnologia, mas devido alguns contratempos, somente há três anos considerei que Ti pudesse realmente ser a minha vocação. Das áreas que tive contato, eu me vi mais fissurado em desenvolvimento de software e cibersegurança. Venho aprendendo coisas desafiadoras e empolgantes no curso técnico generalista que faço. No futuro, espero colocar minhas habilidades em prática para ajudar a resolver problemas complexos e contribuir para o sucesso de projetos inovadores. Estou determinado a continuar aprimorando minhas hard e soft skills ao longo da minha carreira.
+Com o propósito de entrar no mercado de trabalho como estagiário e ser um desenvolvedor back-end jr com mais experiência, eu estou adquirindo conhecimentos em linguagens C-like, APIs, bancos de dados e conceitos de segurança da informação. Sempre tive um grande interesse por tecnologia, mas devido alguns contratempos, somente há três anos considerei que Ti pudesse realmente ser a minha vocação. Das áreas que tive contato, eu me vi mais fissurado em desenvolvimento de software e cibersegurança. Venho aprendendo coisas desafiadoras e empolgantes no curso técnico generalista que faço. No futuro, espero colocar minhas habilidades em prática para ajudar a resolver problemas complexos e contribuir para o sucesso de projetos inovadores. Estou determinado a continuar aprimorando minhas hard e soft skills ao longo da minha carreira.
 
 <br/>
 
