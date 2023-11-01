@@ -6,12 +6,14 @@
 
 ${back-end programmer🪐}
 
-<Br/>
+<br/>
 
 
-Com o propósito de entrar no mercado de trabalho como estagiário ou Desenvolvedor Back-end Jr, estou construindo bases sólidas e conhecimento aprofundado nas linguagens C-like, APIs e bancos de dados. <br/>
+Com o propósito de entrar no mercado de trabalho como estagiário e ser um desenvolvedor back-end jr com mais experiência,eu estou adquirindo conhecimentos aprofundados em linguagens C-like, APIs, bancos de dados e conceitos de segurança da informação.
 
-Sempre tive interesse por tecnologia, mas só há três anos entendi que TI é a minha vocação. Das áreas que tive contato, eu me vi mais fissurado em back-end e cibersegurança. Tenho aprendido coisas desafiadoras e empolgantes no curso técnico generalista que venho fazendo. No futuro, espero usar minhas habilidades para ajudar a resolver problemas complexos e contribuir para o sucesso de projetos inovadores. Estou determinado a continuar aprendendo e aprimorando minhas hard e soft skills ao longo da minha carreira.
+<br/>
+
+Sempre tive um grande interesse por tecnologia, mas devido alguns contratempos, somente há três anos considerei que Ti pudesse realmente ser a minha vocação. Das áreas que tive contato, eu me vi mais fissurado em desenvolvimento de software e cibersegurança. Venho aprendendo coisas desafiadoras e empolgantes no curso técnico generalista que faço. No futuro, espero colocar minhas habilidades em prática para ajudar a resolver problemas complexos e contribuir para o sucesso de projetos inovadores. Estou determinado a continuar aprimorando minhas hard e soft skills ao longo da minha carreira.
 
 <br/>
 
