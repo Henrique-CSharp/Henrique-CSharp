@@ -4,7 +4,7 @@
  # 🃏 About me:
 <br/>
 
-                                                         ${ back-end programmer 🪐}
+                                                 ${ back-end programmer 🪐}
 
 <br/>
 
